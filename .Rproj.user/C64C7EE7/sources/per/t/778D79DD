@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532738674407.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2900762787",
+    "id" : "778D79DD",
+    "lastKnownWriteTime" : 1532743696,
+    "last_content_update" : 1532743696575,
+    "path" : "C:/Users/Administrator/rlangweekend/Project180728/ClassScores.R",
+    "project_path" : "ClassScores.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

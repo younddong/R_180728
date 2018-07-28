@@ -1,4 +1,5 @@
 
+# install packages 
 
 install.packages("rJava")
 install.packages("DBI")
@@ -15,21 +16,8 @@ install.packages("RColorBrewer")
 install.packages("data.table")
 install.packages("dplyr")
 install.packages("reshape")
-library(rJava)
-library(DBI)
-library(RJDBC)
-library(XML)
-library(memoise)
-library(KoNLP)
-library(wordcloud)
-library(dplyr)
-library(ggplot2)
-library(ggmap)
-library(rvest)
-library(RColorBrewer)
-library(data.table)
-library(reshape)
 
 
 
-getwd()
+
+

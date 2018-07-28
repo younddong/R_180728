@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532747001970.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "261A89DC",
+    "lastKnownWriteTime" : 3180141808686473843,
+    "last_content_update" : 1532747001970,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ED9C149F",
+        "caption" : "empp",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=empp&cache_key=ED9C149F",
+        "displayedObservations" : 107,
+        "environment" : "",
+        "object" : "empp",
+        "preview" : 0,
+        "totalObservations" : 107,
+        "variables" : 11
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
